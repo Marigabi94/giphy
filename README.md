@@ -1,7 +1,7 @@
 # Giphy
 [![](https://img.shields.io/github/last-commit/marigabi94/giphy?style=plastic&logo=github&logoColor=white&labelColor=101010)]()</br>
 
-Practica de consumo de api con la api de giphy.
+Practica de consumo de api con giphy.
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
